@@ -62,6 +62,8 @@
 
 ## Tools for Git & GitHub
 
+## Lab and Instructions
+
 ### Authors
 
 - Brian Almaguer
