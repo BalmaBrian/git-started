@@ -1,6 +1,6 @@
 ![Banner](https://github.com/BalmaBrian/git-started/blob/main/images/README%20Banner.png)
 
-**Disclaimer:** This repository was made for the intention of teaching CSC 131 Students at Sacramento State. If you wish to adapt this for your own class, please fork the template brach. Any chages to the main brach are done in a real class enviorment and are not ideal for lab in your own school site. Have fun hacking!
+**Disclaimer:** This repository was made for the intention of teaching CSC 131 Students at Sacramento State. If you wish to adapt this for your own class then please fork the template branch. Any changes to the main branch are done in a real class environment and are not ideal for a lab in your own school site. Have fun hacking!
 
 > Brian Almaguer (AKA BalmaBrian)
 
