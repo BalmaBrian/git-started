@@ -14,6 +14,14 @@ This lab is meant to be performed in a docker container. Although the lab can be
 
 ## Installing Git and GitHub Desktop
 
+Git is a software that you will have to run on your system eventually. Git can be dowloaded and installed from wed at [git-scm.com](https://git-scm.com/).
+
+![Git-Scm image](https://github.com/BalmaBrian/git-started/blob/main/images/git-scm.png)
+
+Since Git is mainly a command-line tool it has many derivatives to perform actions you would otherwise type in a terminal. One such derivative comes from GitHub called GitHub Desktop. GitHub Desktop streamlines all the commands and actions you would perform in a terminal with a nice and modern GUI. In addition to the streamlined Git workflow, GitHub Desktop offers extra features that promote the GitHub workflow. To install GitHub Desktop visit [desktop.github.com](https://desktop.github.com/).
+
+![GitHub Desktop](https://github.com/BalmaBrian/git-started/blob/main/images/GitHub%20Desktop.png)
+
 ## Git Global Variables
 
 # It's all about Git
