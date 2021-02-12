@@ -39,6 +39,8 @@ Since Git is mainly a command-line tool it has many derivatives to perform actio
 
 ## The current impact of Git
 
+In the regular grind of the developer world where software packages and standards change regularly, Git has stayed consistent. In a project's chaotic life cycle Git has been used to catalog and organize work. Blunty explained, Git is the history book of your code.
+
 ## Version Control System
 
 ## What is Building Software
