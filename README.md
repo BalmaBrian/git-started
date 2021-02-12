@@ -83,13 +83,7 @@ Staging is the step you take to interact with version control. Git tracks when y
 
 ## The power of a pull request
 
-# Closing
-
-## Advance subjects
-
-## Tools for Git & GitHub
-
-## Lab and Instructions
+# Lab and Instructions
 
 ### Authors
 
