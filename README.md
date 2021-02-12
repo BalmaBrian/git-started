@@ -43,6 +43,8 @@ In the regular grind of the developer world where software packages and standard
 
 ## Version Control System
 
+As stated on Wikipedia, version control is a class of systems responsible for managing changes. Git is a version control system but it boils down to a system for managing your files. That's all there is to a Version Control system, it is the manager or your files changes and history of changes.
+
 ## What is Building Software
 
 ## Collaboration and its relation to Open Source
