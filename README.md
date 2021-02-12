@@ -59,8 +59,6 @@ Staging is the step you take to interact with version control. Git tracks when y
 
 Committing in Git is saving all your changes. Committing makes something called a commit that is added to a commit tree; a commit tree is just a timeline for your Git repository. To perform a commit you need to have files that are staged, a basic commit message to inform people reading the commit tree of the changes being added, and finally some user metadata provided by your global variables. Once you have all that information you can then run the Git commit command.
 
-## Commit tree
-
 # Cloning, Pulling, Pushing
 
 ## Cloning
