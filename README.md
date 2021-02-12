@@ -63,6 +63,8 @@ Committing in Git is saving all your changes. Committing makes something called 
 
 ## Cloning
 
+Cloning is a Git command that is used for copying project repositorys on your cost system. You can have a project repository located on a private network, local network, or website. One cloning target is GitHub.
+
 ## Pulling
 
 ## Pushing
