@@ -67,7 +67,7 @@ One great explanation to the question of what is building software is from YouTu
 
 ## Should everyone be allowed to push to the main branch?
 
-# Forking
+# Forking and Open Source
 
 ## Forking
 
