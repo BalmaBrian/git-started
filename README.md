@@ -75,6 +75,8 @@ Pushing is a Git command that updates a parent repository commit-tree with your 
 
 ## Should everyone be allowed to push to the main branch?
 
+The short answer is no. As stated by Job van der Voort on a GitLab blog "The power that Git gives you to change history is great when you're working alone, but potentially disrupting if you're working with others". Your main branch, or in current context your main commit-tree, just holds your change history. In a large project, it is a place for meaningful changes and not a project's RnD history. Project group work is best done in forks or in feature branches.
+
 # Forking and Open Source
 
 ## Forking
