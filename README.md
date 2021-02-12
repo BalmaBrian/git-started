@@ -51,7 +51,9 @@ One great explanation to the question of what is building software is from YouTu
 
 # Staging & Committing
 
-## Stageing
+## Staging
+
+Staging is the step you take to interact with version control. Git tracks when you make new files delete old files and change existing files; all of those actions are considered as changes in Git. To record all the changes present in a Git project, you must choose which files to stage. Staging, from a simple point of view, is the act of identifying what files to bundle up in a Git project for a documentation phase called committing.
 
 ## Committing
 
