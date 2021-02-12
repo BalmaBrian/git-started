@@ -71,6 +71,8 @@ Pulling is a git command that will get all the updates on a parent repositories 
 
 ## Pushing
 
+Pushing is a Git command that updates a parent repository commit-tree with your local commit-tree. Pushing is also one of the ways developers contribute their code to a project.
+
 ## Should everyone be allowed to push to the main branch?
 
 # Forking and Open Source
