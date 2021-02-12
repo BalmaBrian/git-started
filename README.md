@@ -45,7 +45,9 @@ In the regular grind of the developer world where software packages and standard
 
 As stated on Wikipedia, version control is a class of systems responsible for managing changes. Git is a version control system but it boils down to a system for managing your files. That's all there is to a Version Control system, it is the manager or your files changes and history of changes.
 
-## What is Building Software
+## What is Building Software?
+
+One great explanation to the question of what is building software is from YouTuber Fireship.io. On his video [Git It? How to use Git and Github](https://www.youtube.com/watch?v=HkdAHXoRtos) he explains "building software is a series of small milestones where each milestone is just writing code and a bunch of different files [where] your app will constantly move from a state of chaos to stability and Git gives you a way to keep track of all of these changes".
 
 ## Collaboration and its relation to Open Source
 
