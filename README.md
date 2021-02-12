@@ -67,6 +67,8 @@ Cloning is a Git command that is used for copying project repositorys on your co
 
 ## Pulling
 
+Pulling is a git command that will get all the updates on a parent repositories commit-tree. In simple terms, you are synchronizing your timeline with the main project.
+
 ## Pushing
 
 ## Should everyone be allowed to push to the main branch?
