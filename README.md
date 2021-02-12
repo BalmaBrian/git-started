@@ -10,6 +10,8 @@
 
 ## Docker Git Container
 
+This lab is meant to be performed in a docker container. Although the lab can be done on your host machine it is better to practice and perform new unfamiliar tasks in an isolated environment. Any change, error, or mistake can be saved and reversed in a docker container, and choosing to perform this lab on your host machine is a risk you have to factor.
+
 ## Installing Git and GitHub Desktop
 
 ## Git Global Variables
