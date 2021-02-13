@@ -89,6 +89,8 @@ This topic of forking in open source is important to know and understand on some
 
 ### Pull Requests
 
+Video time! Pull requests are how contributions, features, and updates are made/added to a project. The best fun explanation of pull requests that also doubles as a tutorical is from YouTuber Fireship.io. Watch his video GitHub [Pull Request in 100 Seconds - Git a FREE sticker 🔥](https://www.youtube.com/watch?v=8lGpZkjnkt4&t) and learn about Pull Requests.
+
 # Lab and Instructions
 
 ### Authors
