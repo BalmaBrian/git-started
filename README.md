@@ -81,6 +81,8 @@ The short answer is no. As stated by [Job van der Voort on a GitLab blog](https:
 
 ### Forking
 
+Forking is a much more specific feature of GitHub and other similar products. To fork is to make a copy of a project under your account. If you want to make changes to a project, take a project in a different direction, or commit to a project without affecting the parent repository then forking is the way to go. Forking is common in Open Source Software since it lets developers freely fork repositories, use codes as their own, and make changes.
+
 ### Forking in relation to Open Source
 
 # Pull Requests
