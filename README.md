@@ -85,6 +85,8 @@ Forking is a much more specific feature of GitHub and other similar products. To
 
 ### Forking in relation to Open Source
 
+This topic of forking in open source is important to know and understand on some level moving forward. This topic is well elaborated on an article published on [opensource.com](opensource.com) by [Scott K Peterson](https://opensource.com/users/skpeterson), a Red Hat legal team member, called [Governance without rules: How the potential for forking helps projects](https://opensource.com/article/19/1/forking-good). The article says "Although forking is undesirable, the potential for forking provides a discipline that drives people to find a way forward that works for everyone." If you have the chance, please read the article by Scott K Peterson.
+
 # Pull Requests
 
 ### What is a pull request?
