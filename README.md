@@ -77,7 +77,7 @@ Pushing is a Git command that updates a parent repository commit-tree with your 
 
 The short answer is no. As stated by [Job van der Voort on a GitLab blog](https://about.gitlab.com/blog/2014/11/26/keeping-your-code-protected/) "The power that Git gives you to change history is great when you're working alone, but potentially disrupting if you're working with others". Your main branch, or in current context your main commit-tree, just holds your change history. In a large project, it is a place for meaningful changes and not a project's RnD history. Project group work is best done in forks or in feature branches.
 
-# Forking and Open Source
+# Forking, Open Source, Pull Requests
 
 ### Forking
 
@@ -87,13 +87,7 @@ Forking is a much more specific feature of GitHub and other similar products. To
 
 This topic of forking in open source is important to know and understand on some level moving forward. This topic is well elaborated on an article published on [opensource.com](opensource.com) by [Scott K Peterson](https://opensource.com/users/skpeterson), a Red Hat legal team member, called [Governance without rules: How the potential for forking helps projects](https://opensource.com/article/19/1/forking-good). The article says "Although forking is undesirable, the potential for forking provides a discipline that drives people to find a way forward that works for everyone." If you have the chance, please read the article by Scott K Peterson.
 
-# Pull Requests
-
-### What is a pull request?
-
-### Where is a pull request often used?
-
-### The power of a pull request
+### Pull Requests
 
 # Lab and Instructions
 
