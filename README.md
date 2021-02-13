@@ -27,7 +27,7 @@ The following information can be found in a cheat sheet from GitHub found [here]
 
 ### Installing Git and GitHub Desktop
 
-Git is a software that you will have to run on your system eventually. Git can be dowloaded and installed from wed at [git-scm.com](https://git-scm.com/).
+Git is a software that you will have to run on your system eventually. Git can be dowloaded and installed from the wed at [git-scm.com](https://git-scm.com/).
 
 ![Git-Scm image](https://github.com/BalmaBrian/git-started/blob/main/images/git-scm.png)
 
@@ -63,11 +63,11 @@ Committing in Git is saving all your changes. Committing makes something called 
 
 ### Cloning
 
-Cloning is a Git command that is used for copying project repositorys on your cost system. You can have a project repository located on a private network, local network, or website. One cloning target is GitHub.
+Cloning is a Git command that is used for copying project repositorys to your host system. You can have a project repository located on a private network, local network, or website. For example, one cloning target is GitHub.
 
 ### Pulling
 
-Pulling is a git command that will get all the updates on a parent repositories commit-tree. In simple terms, you are synchronizing your timeline with the main project.
+Pulling is a git command that will get all the updates on a parent repositories commit-tree. In simple terms, you are synchronizing your timeline with the main projects timeline.
 
 ### Pushing
 
