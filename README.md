@@ -241,7 +241,13 @@ root@537c382ad729 /git-started (main)#
 
 ---
 
-Once you are in your forked repository, make a new file in the student-submissions folder that is your github-name.txt. Run the following command to make a new file 👉 `touch student-submissions/github-name.txt`. Once you are all hunki dori with you file, view the status of git by running the following command 👉 `git status`. You should see the following.
+Once you are in your forked repository, make a new file in the student-submissions folder that is your github-name.txt. Run the following command to make a new file 👉 `touch student-submissions/github-name.txt`.
+
+### Step 8: Staging and Committing
+
+---
+
+Once you are all hunki dori with you file, view the status of git by running the following command 👉 `git status`. You should see the following.
 
 ```
 On branch main
@@ -282,10 +288,6 @@ root@537c382ad729 /git-started (main)# git commit -m "my first commit"
  create mode 100644 student-submissions/github-name.txt
 root@537c382ad729 /git-started (main)#
 ```
-
-### Step 8: Staging and Committing
-
----
 
 ### Step 9: Your first pull request
 
