@@ -1,5 +1,0 @@
-# Name
-
-## Section number
-
-### date
