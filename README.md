@@ -241,6 +241,48 @@ root@537c382ad729 /git-started (main)#
 
 ---
 
+Once you are in your forked repository, make a new file in the student-submissions folder that is your github-name.txt. Run the following command to make a new file 👉 `touch student-submissions/github-name.txt`. Once you are all hunki dori with you file, view the status of git by running the following command 👉 `git status`. You should see the following.
+
+```
+On branch main
+Your branch is up to date with 'origin/main'.
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+        student-submissions/github-name.txt
+
+nothing added to commit but untracked files present (use "git add" to track)
+```
+
+Our untacked files are our unstaged file. Let stage them with the following command. Also remember if you don't know how a command works, you can always check the the git help page with `git help -a`.
+
+> `git add student-submissions/github-name.txt`
+
+Now that we staged our changes, git status should read this:
+
+```
+On branch main
+Your branch is up to date with 'origin/main'.
+
+Changes to be committed:
+  (use "git restore --staged <file>..." to unstage)
+        new file:   student-submissions/github-name.txt
+```
+
+Let us now commit our changes to the main brach by running the following command below. Please use an appropriate commit message.
+
+> `git commit -m "my first commit"`
+
+You should see similar output to the following.
+
+```bash
+root@537c382ad729 /git-started (main)# git commit -m "my first commit"
+[main fe2bc75] my first commit
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+ create mode 100644 student-submissions/github-name.txt
+root@537c382ad729 /git-started (main)#
+```
+
 ### Step 8: Staging and Committing
 
 ---
