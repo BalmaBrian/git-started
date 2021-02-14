@@ -210,9 +210,32 @@ To prove you copied all the tutorial code into the my-first-clone folder, Run th
 
 ---
 
+Let's create your first fork on GitHub 😁. On the tutoral repository GitHub page, select the fork button on the top right.
+
+![Fork Button](https://github.com/BalmaBrian/git-started/blob/main/images/Fork%20Button.PNG)
+
+After you fork the repository, you should see a copy on your own account.
+
 ### Step 6: Cloning practice
 
 ---
+
+Using the information from step 4, clone your forked repo into your development lab enviorement. Once you complete this task, move into the folder using the cd command. Below is an example of the steps expected.
+
+```bash
+root@537c382ad729 /# git clone https://github.com/BalmaBrian/git-started.git
+Cloning into 'git-started'...
+remote: Enumerating objects: 125, done.
+remote: Counting objects: 100% (125/125), done.
+remote: Compressing objects: 100% (87/87), done.
+remote: Total 125 (delta 42), reused 113 (delta 33), pack-reused 0
+Receiving objects: 100% (125/125), 293.11 KiB | 1.29 MiB/s, done.
+Resolving deltas: 100% (42/42), done.
+root@537c382ad729 /# cd git-started/
+root@537c382ad729 /git-started (main)# ls
+LICENSE              README.md            dockerfile           images/              student-submissions/
+root@537c382ad729 /git-started (main)#
+```
 
 ### Step 7: Making your changes
 
