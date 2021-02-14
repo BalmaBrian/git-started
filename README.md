@@ -93,6 +93,110 @@ Video time! Pull requests are how contributions, features, and updates are made/
 
 # Lab and Instructions
 
+## Background
+
+The majority of this lab is going to be done in the command line while the other sections will be done on GitHub. Please have or make a GitHub account and we recommend you use the docker container since this lab is practice. If you choose to follow along with your own system then please keep in mind where you download repositories and where you run your commands. If anything ever goes wrong, we can always restart a container while it might take a long time to restart your personal system or organizations system.
+
+### Step 1: Run docker container or Use host system
+
+---
+
+Lets get started 😁. Run the folloing command in your terminal for the docker container other wise just open a terminal session in the desired folder location you want to do the lab in.
+
+> `docker run -it --rm balmabrian/git-started`
+
+You should see a shell similar but not exactly like the following:
+
+```bash
+Welcome to fish, the friendly interactive shell
+root@553dc081efc4 /#
+```
+
+**Extra:** This step is only for the people running the docker container. Run the following command 👉 `fortune | cowsay | lolcat`
+
+### Step 2: Git command
+
+---
+
+Now that we are in a shell, lets check what version of git we are using. Run the following command 👉 `git --version`. You should get output that says `git version 2.30.1` or similar. Now lets see all the possiable command parameters avaiable to us, Run the following command 👉 `git help`. You should see the following output:
+
+```
+usage: git [--version] [--help] [-C <path>] [-c <name>=<value>]
+           [--exec-path[=<path>]] [--html-path] [--man-path] [--info-path]
+           [-p | --paginate | -P | --no-pager] [--no-replace-objects] [--bare]
+           [--git-dir=<path>] [--work-tree=<path>] [--namespace=<name>]
+           <command> [<args>]
+
+These are common Git commands used in various situations:
+
+start a working area (see also: git help tutorial)
+   clone             Clone a repository into a new directory
+   init              Create an empty Git repository or reinitialize an existing one
+
+work on the current change (see also: git help everyday)
+   add               Add file contents to the index
+   mv                Move or rename a file, a directory, or a symlink
+   restore           Restore working tree files
+   rm                Remove files from the working tree and from the index
+   sparse-checkout   Initialize and modify the sparse-checkout
+
+examine the history and state (see also: git help revisions)
+   bisect            Use binary search to find the commit that introduced a bug
+   diff              Show changes between commits, commit and working tree, etc
+   grep              Print lines matching a pattern
+   log               Show commit logs
+   show              Show various types of objects
+   status            Show the working tree status
+
+grow, mark and tweak your common history
+   branch            List, create, or delete branches
+   commit            Record changes to the repository
+   merge             Join two or more development histories together
+   rebase            Reapply commits on top of another base tip
+   reset             Reset current HEAD to the specified state
+   switch            Switch branches
+   tag               Create, list, delete or verify a tag object signed with GPG
+
+collaborate (see also: git help workflows)
+   fetch             Download objects and refs from another repository
+   pull              Fetch from and integrate with another repository or a local branch
+   push              Update remote refs along with associated objects
+```
+
+When ever you forget a command, just refer to the help command through git.
+
+### Step 3: Setting up for first global variables
+
+---
+
+### Step 4: Cloning your first repo
+
+---
+
+### Step 5: Creating your first fork
+
+---
+
+### Step 6: Cloning practice
+
+---
+
+### Step 7: Making your changes
+
+---
+
+### Step 8: Staging and Committing
+
+---
+
+### Step 9: Your first pull request
+
+---
+
+### Step 10: Checking completeness of your lab
+
+---
+
 ### Authors
 
 - Brian Almaguer
