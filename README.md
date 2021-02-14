@@ -289,9 +289,23 @@ root@537c382ad729 /git-started (main)# git commit -m "my first commit"
 root@537c382ad729 /git-started (main)#
 ```
 
+Finally push for commit using the following command 👉 `git push`
+
 ### Step 9: Your first pull request
 
 ---
+
+Go to your fork on GitHub to prepare a pull request. Under the pull request tab, hit the New Pull Request button.
+
+![Pull Request button](https://github.com/BalmaBrian/git-started/blob/main/images/Pull%20Request%20button.PNG)
+
+Next, compare your pull request setting to the following image.
+
+![Pull Request settings](https://github.com/BalmaBrian/git-started/blob/main/images/Pull%20Request%20settings.PNG)
+
+Finalize your pull request. You should see an image similar to the following.
+
+![Pull Request process](https://github.com/BalmaBrian/git-started/blob/main/images/Pull%20Request%20Process.PNG)
 
 ### Step 10: Checking completeness of your lab
 
