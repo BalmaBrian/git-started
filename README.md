@@ -182,6 +182,30 @@ Let us now set up our global variables. In order lets set the username, email, a
 
 ---
 
+Let's clone our first repository 😁. First make a new directory (note: this command is Linux and mac specific) Run the following command 👉 `mkdir my-first-clone`. We are cloning this tutorial repository. Locate the code button at the top of the GitHub page and copy the URL path presented.
+
+![Clone Target path](https://github.com/BalmaBrian/git-started/blob/main/images/Clone%20Target.PNG)
+
+After that put the following command together to copy all of the cloning targets files into our my-first-clone folder.
+
+```bash
+git clone https://github.com/BalmaBrian/git-started.git my-first-clone
+```
+
+The following output is what you should see when the cloning is complete.
+
+```
+Cloning into 'my-first-clone'...
+remote: Enumerating objects: 118, done.
+remote: Counting objects: 100% (118/118), done.
+remote: Compressing objects: 100% (82/82), done.
+remote: Total 118 (delta 39), reused 107 (delta 31), pack-reused 0
+Receiving objects: 100% (118/118), 285.58 KiB | 1.02 MiB/s, done.
+Resolving deltas: 100% (39/39), done.
+```
+
+To prove you copied all the tutorial code into the my-first-clone folder, Run the following command to list all the files in that folder 👉 `ls my-first-clone`.
+
 ### Step 5: Creating your first fork
 
 ---
