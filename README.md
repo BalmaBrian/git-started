@@ -309,6 +309,8 @@ Finalize your pull request. You should see an image similar to the following.
 
 ### Step 10: Checking completeness of your lab
 
+Your lab is complete if all checks pass in your pull request.
+
 ---
 
 ### Authors
