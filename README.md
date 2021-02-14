@@ -169,6 +169,15 @@ When ever you forget a command, just refer to the help command through git.
 
 ---
 
+Let us now set up our global variables. In order lets set the username, email, and color ui.
+
+1. Run the following command with your name or optinal nickname. This value will be added to all your commits so that when a person wants to see who made the certain commit it will list out the appropriate contributors username.
+   > `git config --global user.name “[firstname lastname]”`
+2. Run the following command to setup the email variable. This will be used when you want to push to GitHub. (Note: the email listed should be the email associated with your GitHub account for this lab)
+   > `git config --global user.email “[valid-email]”`
+3. Run the following command to set the Git Color UI for your terminal.
+   > `git config --global color.ui auto`
+
 ### Step 4: Cloning your first repo
 
 ---
